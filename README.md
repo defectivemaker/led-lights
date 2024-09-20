@@ -1,3 +1,5 @@
+This project was made around mid 2020
+
 This was entirely created from scratch to control LED lights by managing the current going through the red, green and blue part of the light.
 
 I also decoded the IR signals from my TV remote so I was able to control the lights with my TV remote
